@@ -93,4 +93,6 @@ int main(){
         }
 
     cout << "City with most improved air quality: " << cities[bestImprovementIndex] << " (Largest drop in AQI: " << maxImprovement << ")\n";
+
+    return 0;
 }
